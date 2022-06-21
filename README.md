@@ -1,2 +1,2 @@
-# education_projects
-Repository with my education applications.
+# Java
+Repository with my projects on Java.
