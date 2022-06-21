@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="hint_time">0 ч:00 мин:00 с</string>
+    <string name="btn_start">Старт / Прожолжить</string>
+    <string name="btn_pause">Пауза</string>
+    <string name="btn_reset">Сброс</string>
+</resources>
